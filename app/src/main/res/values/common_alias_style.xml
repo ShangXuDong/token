@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textStyletitlenavigationbar">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">16px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyleheadline20">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">20</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebuttonlarge">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">15px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyleheadline16">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">16px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebuttonmedium">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">14px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylenumber48">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">48px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyletagsmall">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">10px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyleheadline28">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">28px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylenumber14">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">14px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyleheadline24">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">24px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyletagmudium">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">12px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebody12">
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">12px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylenumber20">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">20</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebody10">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">10px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylenumber12">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">12px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebody14Highlight">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">14px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebuttonsmall">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">12px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyledisplay32">
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">32px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStylebody14">
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">14px</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+    <style name="textStyletitlemodal">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:textSize">18</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+        <item name="android:fontFamily">@font/Gilroy</item>
+    </style>
+</resources>

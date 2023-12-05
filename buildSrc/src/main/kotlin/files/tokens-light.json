@@ -1,0 +1,1264 @@
+{
+  "global": {
+    "size": {
+      "0": {
+        "value": "0px",
+        "type": "sizing"
+      },
+      "10": {
+        "value": "1px",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "2px",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "4px",
+        "type": "sizing"
+      },
+      "60": {
+        "value": "6px",
+        "type": "sizing"
+      },
+      "80": {
+        "value": "8px",
+        "type": "sizing"
+      },
+      "120": {
+        "value": "12px",
+        "type": "sizing"
+      },
+      "140": {
+        "value": "14px",
+        "type": "sizing"
+      },
+      "150": {
+        "value": "15px",
+        "type": "sizing"
+      },
+      "160": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "180": {
+        "value": "18px",
+        "type": "sizing"
+      },
+      "200": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "220": {
+        "value": "22px",
+        "type": "sizing"
+      },
+      "240": {
+        "value": "24px",
+        "type": "sizing"
+      },
+      "260": {
+        "value": "26",
+        "type": "sizing"
+      },
+      "280": {
+        "value": "28",
+        "type": "sizing"
+      },
+      "300": {
+        "value": "30px",
+        "type": "sizing"
+      },
+      "320": {
+        "value": "32px",
+        "type": "sizing"
+      },
+      "340": {
+        "value": "34px",
+        "type": "sizing"
+      },
+      "360": {
+        "value": "36px",
+        "type": "sizing"
+      },
+      "380": {
+        "value": "38px",
+        "type": "sizing"
+      },
+      "400": {
+        "value": "40px",
+        "type": "sizing"
+      },
+      "420": {
+        "value": "42px",
+        "type": "sizing"
+      },
+      "440": {
+        "value": "44px",
+        "type": "sizing"
+      },
+      "460": {
+        "value": "46px",
+        "type": "sizing"
+      },
+      "480": {
+        "value": "48px",
+        "type": "sizing"
+      },
+      "500": {
+        "value": "50px",
+        "type": "sizing"
+      }
+    },
+    "font-size": {
+      "100": {
+        "value": "10px",
+        "type": "fontSizes"
+      },
+      "120": {
+        "value": "12px",
+        "type": "fontSizes"
+      },
+      "140": {
+        "value": "14px",
+        "type": "fontSizes"
+      },
+      "150": {
+        "value": "15px",
+        "type": "fontSizes"
+      },
+      "160": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "180": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "200": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "220": {
+        "value": "22px",
+        "type": "fontSizes"
+      },
+      "240": {
+        "value": "24px",
+        "type": "fontSizes"
+      },
+      "260": {
+        "value": "26px",
+        "type": "fontSizes"
+      },
+      "280": {
+        "value": "28px",
+        "type": "fontSizes"
+      },
+      "300": {
+        "value": "30px",
+        "type": "fontSizes"
+      },
+      "320": {
+        "value": "32px",
+        "type": "fontSizes"
+      },
+      "480": {
+        "value": "48px",
+        "type": "fontSizes"
+      }
+    },
+    "color": {
+      "brand100": {
+        "value": "linear-gradient(135deg, #ffee00 0%, #ffd000 100%)",
+        "type": "color"
+      },
+      "black100": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "black90": {
+        "value": "rgba(0,0,0,0.8)",
+        "type": "color"
+      },
+      "black80": {
+        "value": "rgba(0,0,0,0.72)",
+        "type": "color"
+      },
+      "black70": {
+        "value": "rgba(0,0,0,0.6)",
+        "type": "color"
+      },
+      "black60": {
+        "value": "rgba(0,0,0,0.48)",
+        "type": "color"
+      },
+      "black50": {
+        "value": "rgba(0,0,0,0.4)",
+        "type": "color"
+      },
+      "black40": {
+        "value": "rgba(0,0,0,0.36)",
+        "type": "color"
+      },
+      "black30": {
+        "value": "rgba(0,0,0,0.24)",
+        "type": "color"
+      },
+      "black20": {
+        "value": "rgba(0,0,0,0.1)",
+        "type": "color"
+      },
+      "black10": {
+        "value": "rgba(0,0,0,0.05)",
+        "type": "color"
+      },
+      "white100": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "white90": {
+        "value": "rgba(255,255,255,0.8)",
+        "type": "color"
+      },
+      "white80": {
+        "value": "rgba(255,255,255,0.75)",
+        "type": "color"
+      },
+      "white70": {
+        "value": "rgba(255,255,255,0.6)",
+        "type": "color"
+      },
+      "white60": {
+        "value": "rgba(255,255,255,0.48)",
+        "type": "color"
+      },
+      "white50": {
+        "value": "rgba(255,255,255,0.4)",
+        "type": "color"
+      },
+      "white40": {
+        "value": "rgba(255,255,255,0.36)",
+        "type": "color"
+      },
+      "white30": {
+        "value": "rgba(255,255,255,0.24)",
+        "type": "color"
+      },
+      "white20": {
+        "value": "rgba(255,255,255,0.18)",
+        "type": "color"
+      },
+      "white10": {
+        "value": "rgba(255,255,255,0.1)",
+        "type": "color"
+      },
+      "gary100": {
+        "value": "#1C1D1E",
+        "type": "color"
+      },
+      "gary90": {
+        "value": "#2C2D2E",
+        "type": "color"
+      },
+      "gary80": {
+        "value": "#3A3B3C",
+        "type": "color"
+      },
+      "gary70": {
+        "value": "#4A4B4C",
+        "type": "color"
+      },
+      "gary60": {
+        "value": "#777778",
+        "type": "color"
+      },
+      "gary50": {
+        "value": "#ADADAE",
+        "type": "color"
+      },
+      "gary40": {
+        "value": "#C7C8C9",
+        "type": "color"
+      },
+      "gary30": {
+        "value": "#E4E5E6",
+        "type": "color"
+      },
+      "gary20": {
+        "value": "#EBECED",
+        "type": "color"
+      },
+      "gary10": {
+        "value": "#f3f4f5",
+        "type": "color"
+      },
+      "red100": {
+        "value": "#ff4040",
+        "type": "color"
+      },
+      "red90": {
+        "value": "rgba(255,64,64,0.8)",
+        "type": "color"
+      },
+      "red80": {
+        "value": "rgba(255,64,64,0.64)",
+        "type": "color"
+      },
+      "red70": {
+        "value": "rgba(255,64,64,0.56)",
+        "type": "color"
+      },
+      "red60": {
+        "value": "rgba(255,64,64,0.48)",
+        "type": "color"
+      },
+      "red50": {
+        "value": "rgba(255,64,64,0.4)",
+        "type": "color"
+      },
+      "red40": {
+        "value": "rgba(255,64,64,0.3)",
+        "type": "color"
+      },
+      "red30": {
+        "value": "rgba(255,64,64,0.24)",
+        "type": "color"
+      },
+      "red20": {
+        "value": "rgba(255,64,64,0.16)",
+        "type": "color"
+      },
+      "red10": {
+        "value": "rgba(255,64,64,0.1)",
+        "type": "color"
+      },
+      "green100": {
+        "value": "#22DB79",
+        "type": "color"
+      },
+      "green90": {
+        "value": "rgba(34,219,121,0.8)",
+        "type": "color"
+      },
+      "green80": {
+        "value": "rgba(34,219,121,0.64)",
+        "type": "color"
+      },
+      "green70": {
+        "value": "rgba(34,219,121,0.56)",
+        "type": "color"
+      },
+      "green60": {
+        "value": "rgba(34,219,121,0.48)",
+        "type": "color"
+      },
+      "green50": {
+        "value": "rgba(34,219,121,0.4)",
+        "type": "color"
+      },
+      "green40": {
+        "value": "rgba(34,219,121,0.3)",
+        "type": "color"
+      },
+      "green30": {
+        "value": "rgba(34,219,121,0.24)",
+        "type": "color"
+      },
+      "green20": {
+        "value": "rgba(34,219,121,0.16)",
+        "type": "color"
+      },
+      "green10": {
+        "value": "rgba(34,219,121,0.08)",
+        "type": "color"
+      },
+      "blue100": {
+        "value": "#31A5FF",
+        "type": "color"
+      },
+      "blue90": {
+        "value": "rgba(49,165,255,0.8)",
+        "type": "color"
+      },
+      "blue80": {
+        "value": "rgba(49,165,255,0.64)",
+        "type": "color"
+      },
+      "blue70": {
+        "value": "rgba(49,165,255,0.56)",
+        "type": "color"
+      },
+      "blue60": {
+        "value": "rgba(49,165,255,0.48)",
+        "type": "color"
+      },
+      "blue50": {
+        "value": "rgba(49,165,255,0.4)",
+        "type": "color"
+      },
+      "blue40": {
+        "value": "rgba(49,165,255,0.3)",
+        "type": "color"
+      },
+      "blue30": {
+        "value": "rgba(49,165,255,0.24)",
+        "type": "color"
+      },
+      "blue20": {
+        "value": "rgba(49,165,255,0.16)",
+        "type": "color"
+      },
+      "blue10": {
+        "value": "rgba(49,165,255,0.08)",
+        "type": "color"
+      },
+      "yellow100": {
+        "value": "#FFDD00",
+        "type": "color"
+      },
+      "yellow90": {
+        "value": "rgba(255,221,0,0.8)",
+        "type": "color"
+      },
+      "yellow80": {
+        "value": "rgba(255,221,0,0.64)",
+        "type": "color"
+      },
+      "yellow70": {
+        "value": "rgba(255,221,0,0.56)",
+        "type": "color"
+      },
+      "yellow60": {
+        "value": "rgba(255,221,0,0.48)",
+        "type": "color"
+      },
+      "yellow50": {
+        "value": "rgba(255,221,0,0.4)",
+        "type": "color"
+      },
+      "yellow40": {
+        "value": "rgba(255,221,0,0.3)",
+        "type": "color"
+      },
+      "yellow30": {
+        "value": "rgba(255,221,0,0.24)",
+        "type": "color"
+      },
+      "yellow20": {
+        "value": "rgba(255,221,0,0.16)",
+        "type": "color"
+      },
+      "yellow10": {
+        "value": "rgba(255,221,0,0.08)",
+        "type": "color"
+      },
+      "transparent-gary100": {
+        "value": "rgba(28,29,30,0.6)",
+        "type": "color"
+      },
+      "transparent-gary90": {
+        "value": "rgba(0,0,0,0.48)",
+        "type": "color"
+      },
+      "transparent-gary80": {
+        "value": "rgba(0,0,0,0.36)",
+        "type": "color"
+      },
+      "transparent-gary70": {
+        "value": "rgba(0,0,0,0.24)",
+        "type": "color"
+      },
+      "transparent-gary60": {
+        "value": "rgba(28,29,30,0.08)",
+        "type": "color"
+      },
+      "transparent-gary50": {
+        "value": "rgba(232,241,249,0.6)",
+        "type": "color"
+      },
+      "transparent-gary40": {
+        "value": "rgba(232,241,249,0.36)",
+        "type": "color"
+      },
+      "transparent-gary30": {
+        "value": "rgba(232,241,249,0.24)",
+        "type": "color"
+      },
+      "transparent-gary20": {
+        "value": "rgba(232,241,249,0.18)",
+        "type": "color"
+      },
+      "transparent-gary10": {
+        "value": "rgba(232,241,249,0.1)",
+        "type": "color"
+      }
+    },
+    "spacing": {
+      "0": {
+        "value": "0px",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "1px",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "2px",
+        "type": "spacing"
+      },
+      "30": {
+        "value": "3px",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "4px",
+        "type": "spacing"
+      },
+      "60": {
+        "value": "6px",
+        "type": "spacing"
+      },
+      "80": {
+        "value": "8px",
+        "type": "spacing"
+      },
+      "100": {
+        "value": "10px",
+        "type": "spacing"
+      },
+      "120": {
+        "value": "12px",
+        "type": "spacing"
+      },
+      "140": {
+        "value": "14px",
+        "type": "spacing"
+      },
+      "160": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "180": {
+        "value": "18px",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "20px",
+        "type": "spacing"
+      },
+      "220": {
+        "value": "22px",
+        "type": "spacing"
+      },
+      "240": {
+        "value": "24px",
+        "type": "spacing"
+      },
+      "260": {
+        "value": "26px",
+        "type": "spacing"
+      },
+      "280": {
+        "value": "28px",
+        "type": "spacing"
+      },
+      "300": {
+        "value": "30px",
+        "type": "spacing"
+      },
+      "320": {
+        "value": "32px",
+        "type": "spacing"
+      },
+      "340": {
+        "value": "34px",
+        "type": "spacing"
+      },
+      "360": {
+        "value": "36px",
+        "type": "spacing"
+      },
+      "380": {
+        "value": "38px",
+        "type": "spacing"
+      },
+      "400": {
+        "value": "40px",
+        "type": "spacing"
+      },
+      "480": {
+        "value": "48px",
+        "type": "spacing"
+      },
+      "640": {
+        "value": "64px",
+        "type": "spacing"
+      },
+      "960": {
+        "value": "96px",
+        "type": "spacing"
+      },
+      "1600": {
+        "value": "160px",
+        "type": "spacing"
+      },
+      "free": {
+        "value": "free",
+        "type": "spacing"
+      }
+    },
+    "opacity": {
+      "0": {
+        "value": "0",
+        "type": "opacity"
+      },
+      "2": {
+        "value": "0.02",
+        "type": "opacity"
+      },
+      "4": {
+        "value": "0.04",
+        "type": "opacity"
+      },
+      "8": {
+        "value": "0.08",
+        "type": "opacity"
+      },
+      "12": {
+        "value": "0.12",
+        "type": "opacity"
+      },
+      "16": {
+        "value": "0.16",
+        "type": "opacity"
+      },
+      "20": {
+        "value": "0.2",
+        "type": "opacity"
+      },
+      "30": {
+        "value": "0.3",
+        "type": "opacity"
+      },
+      "35": {
+        "value": "0.35",
+        "type": "opacity"
+      },
+      "40": {
+        "value": "0.4",
+        "type": "opacity"
+      },
+      "45": {
+        "value": "0.45",
+        "type": "opacity"
+      },
+      "60": {
+        "value": "0.6",
+        "type": "opacity"
+      },
+      "80": {
+        "value": "0.8",
+        "type": "opacity"
+      },
+      "90": {
+        "value": "0.9",
+        "type": "opacity"
+      },
+      "100": {
+        "value": "1",
+        "type": "opacity"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "500",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "700",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "regular": {
+        "value": "140%",
+        "type": "lineHeights"
+      },
+      "bold": {
+        "value": "180%",
+        "type": "lineHeights"
+      }
+    },
+    "font-family": {
+      "number": {
+        "value": "gilroy",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "gilroy",
+        "type": "fontFamilies"
+      }
+    },
+    "border": {
+      "radius": {
+        "xsmall": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "4px",
+          "type": "borderRadius",
+          "description": "极小组建场景；用在时间轴等小圆角"
+        },
+        "medium": {
+          "value": "8px",
+          "type": "borderRadius",
+          "description": "组建场景；用在下拉选项、Toast、缩略图等"
+        },
+        "large": {
+          "value": "12px",
+          "type": "borderRadius",
+          "description": "卡片场景;用在设置列表、卡片等"
+        },
+        "xlarge": {
+          "value": "16px",
+          "type": "borderRadius",
+          "description": "面板场景；用在全局弹窗或其他撑满屏幕两侧的半窗"
+        },
+        "full": {
+          "value": "900px",
+          "type": "borderRadius",
+          "description": "胶囊型组建；用在输入框、按钮上"
+        }
+      },
+      "width": {
+        "none": {
+          "value": "0px",
+          "type": "borderWidth",
+          "description": "常规控件边框、操作框默认态、图片装饰框"
+        },
+        "small": {
+          "value": "1px",
+          "type": "borderWidth",
+          "description": "常规控件边框、操作框默认态、图片装饰框"
+        },
+        "medium": {
+          "value": "2px",
+          "type": "borderWidth",
+          "description": "选中或强调使用"
+        },
+        "large": {
+          "value": "3px",
+          "type": "borderWidth",
+          "description": "选中或强调使用"
+        }
+      }
+    }
+  },
+  "Alias": {
+    "bg-color": {
+      "emphasis": {
+        "regular": {
+          "value": "{color.brand100}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{color.blue100}",
+          "type": "color",
+          "description": "信息背景色"
+        },
+        "error": {
+          "value": "{color.red100}",
+          "type": "color",
+          "description": "错误背景色"
+        },
+        "success": {
+          "value": "{color.green100}",
+          "type": "color",
+          "description": "成功背景色"
+        }
+      },
+      "primary": {
+        "value": "{color.white100}",
+        "type": "color",
+        "description": "(亮色页面，如社区、剪辑首页) 主题背景色"
+      },
+      "secondary": {
+        "value": "{color.gary10}",
+        "type": "color",
+        "description": "(亮色) 2级背景色"
+      },
+      "tertiary": {
+        "value": "{color.gary20}",
+        "type": "color",
+        "description": "(亮色) 3级背景色"
+      },
+      "overlay": {
+        "primary": {
+          "value": "{color.white100}",
+          "type": "color",
+          "description": "浮层背景色(弹窗背景等）主要预留给dark token"
+        }
+      },
+      "mask": {
+        "primary": {
+          "value": "{color.black90}",
+          "type": "color",
+          "description": "背景1级遮罩色"
+        },
+        "secondary": {
+          "value": "{color.black60}",
+          "type": "color",
+          "description": "背景2级遮罩色"
+        }
+      },
+      "surface": {
+        "primary": {
+          "value": "{color.transparent-gary90}",
+          "type": "color",
+          "description": "盖在画面上的浮层，如播放器上的暂停按钮"
+        },
+        "secondary": {
+          "value": "{color.transparent-gary80}",
+          "type": "color",
+          "description": "盖在画面上的浮层，如播放器上的暂停按钮"
+        }
+      },
+      "info": {
+        "value": "{color.blue20}",
+        "type": "color",
+        "description": "信息背景色"
+      },
+      "error": {
+        "value": "{color.red20}",
+        "type": "color",
+        "description": "错误背景色"
+      },
+      "success": {
+        "value": "{color.green20}",
+        "type": "color",
+        "description": "成功背景色"
+      }
+    },
+    "text-color": {
+      "primary": {
+        "value": "{color.gary100}",
+        "type": "color",
+        "description": "主文本"
+      },
+      "secondary": {
+        "value": "{color.gary60}",
+        "type": "color",
+        "description": "次级文本"
+      },
+      "tertiary": {
+        "value": "{color.black40}",
+        "type": "color",
+        "description": "描述文本、按钮文字灰态"
+      },
+      "disabled": {
+        "value": "{color.gary40}",
+        "type": "color",
+        "description": "禁用文本"
+      },
+      "info": {
+        "regular": {
+          "value": "{color.blue100}",
+          "type": "color",
+          "description": "信息文本"
+        },
+        "disable": {
+          "value": "{color.blue60}",
+          "type": "color",
+          "description": "禁用信息文本"
+        }
+      },
+      "error": {
+        "regular": {
+          "value": "{color.red100}",
+          "type": "color",
+          "description": "错误文本"
+        },
+        "disable": {
+          "value": "{color.red60}",
+          "type": "color",
+          "description": "禁用错误文本"
+        }
+      },
+      "warning": {
+        "regular": {
+          "value": "{color.yellow100}",
+          "type": "color",
+          "description": "警告文本"
+        },
+        "disable": {
+          "value": "{color.yellow60}",
+          "type": "color",
+          "description": "禁用警告文本"
+        }
+      },
+      "success": {
+        "regular": {
+          "value": "{color.green100}",
+          "type": "color",
+          "description": "成功文本"
+        },
+        "disable": {
+          "value": "{color.green60}",
+          "type": "color",
+          "description": "禁用成功文本"
+        }
+      },
+      "emphasis": {
+        "value": "{color.brand100}",
+        "type": "color",
+        "description": "强调文本"
+      }
+    },
+    "brand-color": {
+      "primary": {
+        "value": "{color.brand100}",
+        "type": "color"
+      }
+    },
+    "text-style": {
+      "display-32": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.320}"
+        },
+        "type": "typography",
+        "description": "用于长篇主要文本"
+      },
+      "headline-28": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.280}"
+        },
+        "type": "typography",
+        "description": "二级页面标题栏（例如设置页）"
+      },
+      "headline-24": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.240}"
+        },
+        "type": "typography",
+        "description": "大标题、重点内容"
+      },
+      "headline-20": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.200}"
+        },
+        "type": "typography",
+        "description": "常用大标题"
+      },
+      "headline-16": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.160}"
+        },
+        "type": "typography",
+        "description": "大号主体文字"
+      },
+      "body-14-highlight": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.140}"
+        },
+        "type": "typography",
+        "description": "在长文本中加重部分文本"
+      },
+      "body-14": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.140}"
+        },
+        "type": "typography",
+        "description": "用于长篇主要文本"
+      },
+      "body-12": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.120}"
+        },
+        "type": "typography",
+        "description": "用于次要说明文字"
+      },
+      "body-10": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.100}"
+        },
+        "type": "typography",
+        "description": "少用，最小辅助说明"
+      },
+      "number-48": {
+        "value": {
+          "fontFamily": "{font-family.number}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.480}"
+        },
+        "type": "typography",
+        "description": "大数字，如选择素材页-选中素材数字"
+      },
+      "number-20": {
+        "value": {
+          "fontFamily": "{font-family.number}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.200}"
+        },
+        "type": "typography",
+        "description": "大数字，"
+      },
+      "number-14": {
+        "value": {
+          "fontFamily": "{font-family.number}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.140}"
+        },
+        "type": "typography",
+        "description": "小号数字"
+      },
+      "number-12": {
+        "value": {
+          "fontFamily": "{font-family.number}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.regular}",
+          "fontSize": "{font-size.120}"
+        },
+        "type": "typography",
+        "description": "最小号数字"
+      },
+      "title": {
+        "modal": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.180}"
+          },
+          "type": "typography",
+          "description": "弹窗标题"
+        },
+        "navigationbar": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.160}"
+          },
+          "type": "typography",
+          "description": "主要用于导航栏里的标题，以及个别标题"
+        }
+      },
+      "tag": {
+        "mudium": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.medium}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.120}"
+          },
+          "type": "typography",
+          "description": "用于小型tab按钮文字"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.100}"
+          },
+          "type": "typography",
+          "description": "小标签、气泡数字等"
+        }
+      },
+      "button": {
+        "large": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.150}"
+          },
+          "type": "typography",
+          "description": "48、40pt按钮使用、数字"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.140}"
+          },
+          "type": "typography",
+          "description": "32pt按钮使用、数字"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.regular}",
+            "fontSize": "{font-size.120}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "link": {
+      "regular": {
+        "value": "{color.blue100}",
+        "type": "color",
+        "description": "文本-链接色"
+      },
+      "active": {
+        "value": "{color.blue80}",
+        "type": "color",
+        "description": "文本-链接色active&pressed"
+      },
+      "disabled": {
+        "value": "{color.blue50}",
+        "type": "color",
+        "description": "文本-链接色disabled"
+      }
+    },
+    "border-color": {
+      "primary": {
+        "value": "{color.transparent-gary60}",
+        "type": "color",
+        "description": "分割线浅"
+      },
+      "secondary": {
+        "value": "{color.transparent-gary70}",
+        "type": "color",
+        "description": "分割线深"
+      }
+    },
+    "boxshadow": {
+      "text": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0",
+            "color": "{color.black20}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "1",
+            "spread": "0",
+            "color": "{color.black30}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0.5",
+            "blur": "1",
+            "spread": "0",
+            "color": "{color.black20}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "小投影，用于文字、小图标（16px及以下）"
+      },
+      "button": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "{color.black20}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0",
+            "color": "{color.black30}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "3",
+            "spread": "0",
+            "color": "{color.black20}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "小投影，用于图标（16px以上）"
+      },
+      "page": {
+        "value": [
+          {
+            "x": "0",
+            "y": "3",
+            "blur": "14",
+            "spread": "2",
+            "color": "{color.black10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "8",
+            "blur": "10",
+            "spread": "1",
+            "color": "{color.black10}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "5",
+            "blur": "5",
+            "spread": "-3",
+            "color": "{color.black20}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Alias"
+    ]
+  }
+}
